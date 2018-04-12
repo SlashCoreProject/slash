@@ -169,7 +169,7 @@ __________________________________________________________________________
 
 To reward the participants on the platform we come with a fair system that starts on block 120 000 (time for the platform to be ready and the coin to be stabilized on different markets).
 
-33% of the PRE-MINE will be dedicated to create 100 additional Masternodes. The rewards of these Masternodes will be used on a common wallet to be redistributed between the involved users.
+3% of the PRE-MINE will be dedicated to create 100 additional Masternodes. The rewards of these Masternodes will be used on a common wallet to be redistributed between the involved users.
 
 ![Alt text](doc/slash_platform_mn_program.jpg)
 
