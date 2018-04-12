@@ -73,7 +73,7 @@ Speed and privacy are core concerns for users today. To ensure that SLASH is as 
 - **[SLASH Website](http://slashcore.org)**
 - **[SLASH Explorer](http://explorer.slashcore.org)**
 - **[SLASH Pool](http://pool.slashcore.org)**
-- **[SLASH Discord](https://discord.gg/AS6vc)**
+- **[SLASH Discord](https://discord.gg/axGGNfQ)**
 - **[SLASH Twitter](https://twitter.com/slashcoreproject)**
 - **[SLASH Bitcointalk](https://bitcointalk.org/index.php?topic=3309075.0)**
 
