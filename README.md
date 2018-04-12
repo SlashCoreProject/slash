@@ -1,5 +1,5 @@
 
-![Alt text](share/pixmaps/slash256.png)
+![Alt text](src/qt/res/images/light/slash_logo_horizontal.png)
 
 
 ## SLASH
