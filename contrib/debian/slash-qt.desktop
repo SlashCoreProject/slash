@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Slash
+Comment=Slash P2P Cryptocurrency
+Comment[fr]=Slash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Slash, eşten eşe kriptografik sanal para birimi
+Exec=slash-qt %u
+Terminal=false
+Type=Application
+Icon=slash128
+MimeType=x-scheme-handler/slash;
+Categories=Office;Finance;
