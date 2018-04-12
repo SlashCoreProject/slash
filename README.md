@@ -171,7 +171,7 @@ To reward the participants on the platform we come with a fair system that start
 
 33% of the PRE-MINE will be dedicated to create 100 additional Masternodes. The rewards of these Masternodes will be used on a common wallet to be redistributed between the involved users.
 
-![Alt text](slash_platform_mn_program.jpg)
+![Alt text](doc/slash_platform_mn_program.jpg)
 
 Assuming that all SLASH coins are involved in masternodes by then, this allows to get about 8% of the MN rewards allocated to the platform. It represents an average of 800 coins per day of reward split between active users.
 
