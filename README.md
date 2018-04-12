@@ -1,5 +1,5 @@
 
-![Alt text](doc/share/pixmaps/slash256.png)
+![Alt text](share/pixmaps/slash256.png)
 
 
 ## SLASH
