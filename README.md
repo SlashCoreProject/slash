@@ -4,7 +4,7 @@
 
 ## SLASH
 
-Slash : The Decentralised Public Blockchain for Crypto Developpers & free project community.
+Slash : The Decentralised Public Blockchain for Crypto Developers & free project community.
 
 In recent years, more and more free projects are emerging. 
 Our goal is to create a platform dedicated to these projects.
