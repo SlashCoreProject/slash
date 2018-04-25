@@ -1,6 +1,0 @@
-usr/local/bin/slash-qt usr/bin
-share/pixmaps/slash32.xpm usr/share/pixmaps
-share/pixmaps/slash16.xpm usr/share/pixmaps
-share/pixmaps/slash128.png usr/share/pixmaps
-debian/slash-qt.desktop usr/share/applications
-debian/slash-qt.protocol usr/share/kde4/services/
