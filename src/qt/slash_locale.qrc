@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/slash_bg.qm</file>
+        <file alias="de">locale/slash_de.qm</file>
+        <file alias="en">locale/slash_en.qm</file>
+        <file alias="es">locale/slash_es.qm</file>
+        <file alias="fi">locale/slash_fi.qm</file>
+        <file alias="fr">locale/slash_fr.qm</file>
+        <file alias="it">locale/slash_it.qm</file>
+        <file alias="ja">locale/slash_ja.qm</file>
+        <file alias="pl">locale/slash_pl.qm</file>
+        <file alias="pt">locale/slash_pt.qm</file>
+        <file alias="ru">locale/slash_ru.qm</file>
+        <file alias="sk">locale/slash_sk.qm</file>
+        <file alias="sv">locale/slash_sv.qm</file>
+        <file alias="vi">locale/slash_vi.qm</file>
+        <file alias="zh_CN">locale/slash_zh_CN.qm</file>
+        <file alias="zh_TW">locale/slash_zh_TW.qm</file>
+    </qresource>
+</RCC>
