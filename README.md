@@ -1,15 +1,15 @@
 
-![Alt text](src/qt/res/images/light/slash_logo_horizontal.png)
+![Alt text](doc/share/pixmaps/slash256.png)
 
 
 ## SLASH
 
-Slash : The Decentralised Public Blockchain for Crypto Developers & free project community.
+Slash : The Decentralised Public Blockchain for Crypto Developpers for free project community.
 
-In recent years, more and more free projects are emerging. 
+In recent years, more and more free projects are emerging.
 Our goal is to create a platform dedicated to these projects.
 
-This platform will serve as a mine of information on open source cryptocurrency projects, the sharing of knowledge, ideas, tutorials and tips.
+This platform will serve as a goldmine of information about cryptocurency open-source projects, sharing knowledges, ideas, tutorials & tips.
 
 __________________________________________________________________________
 
@@ -41,7 +41,7 @@ __________________________________________________________________________
 
 ## Introducing SLASH
 
-SLASH is a new decentralised open source currency, that is focusing on the creation of a community dedicated to open source softwares & projects.
+ SLASH is a new decentralised open source currency, that is focusing on the creation of a community dedicated to open source softwares & projects.
 
 The name refers to the commun symbol " / " used by all developpers in their codding. It has never been used in any cryptocurrency until now.  The currency unit of account is **SLASH**, along with its exchange ticker.
 
@@ -70,12 +70,12 @@ Speed and privacy are core concerns for users today. To ensure that SLASH is as 
 
 ### Links
 
-- **[SLASH Website](http://slashcore.org)**
-- **[SLASH Explorer](http://explorer.slashcore.org)**
-- **[SLASH Pool](http://pool.slashcore.org)**
-- **[SLASH Discord](https://discord.gg/axGGNfQ)**
+- **[SLASH Website](https://slashcore.org)**
+- **[SLASH Explorer](https://explorer.slashcore.org)**
+- **[SLASH Pool](https://pool.slashcore.org)**
+- **[SLASH Discord](https://discord.gg/AS6vc)**
 - **[SLASH Twitter](https://twitter.com/slashcoreproject)**
-- **[SLASH Bitcointalk](https://bitcointalk.org/index.php?topic=3309075.0)**
+- **[SLASH Bitcointalk](https://bitcointalk.org/index.php?topic=XXXXX)**
 
 
 ### SLASH Team
@@ -101,12 +101,12 @@ __________________________________________________________________________
 
 Note: Pending full implementation and roll out of a SLASH Lightning Network, **all other SLASH' features are enabled and functional from day 0**; end-users can utilise SLASH' speed, larger chain capacity, segregated witness and Masternode functionality straight away.
 
-Guides and additional information can be found on the [SLASH' Knowledge Base](https://slashcore.org), and direct support can be sought on the [SLASH Discord](https://discord.gg/axGGNfQ)
+Guides and additional information can be found on the [SLASH' Knowledge Base](https://slashcore.org), and direct support can be sought on the [SLASH Discord](https://discord.gg/XXXXX)
 
 
 #### Instant Mining Protection [1 SLASH reward to Block 500]
 
-SLASH blockchain has been set up to issue a 1 block subsidy up to **block height 500**.  At 960 blocks per day, this is approximately 12 hours. Also Masternodes rewards start on block 1000, which means about 1 day from the start of the chain.
+SLASH blockchain has been set up to issue a 1 block subsidy up to **block height 500**.  At 960 blocks per day, this is approximately 12 hours. Also Masternodes rewards start on block 1000, witch means about 1 day from the start of the chain.
 
 During this time, community members will be informed of launch and will be able to configure their setups for mining.
 
@@ -169,9 +169,9 @@ __________________________________________________________________________
 
 To reward the participants on the platform we come with a fair system that starts on block 120 000 (time for the platform to be ready and the coin to be stabilized on different markets).
 
-16% of the PRE-MINE will be dedicated to the creation of 100 additional masternodes. The rewards of these masternodes will be used on a common wallet to be share between active users.
+33% of the PRE-MINE will be dedicated to create 100 additional Masternodes. The rewards of these Masternodes will be used on a common wallet to be redistributed between the involved users.
 
-![Alt text](doc/slash_platform_mn_program.jpg)
+![Alt text](slash_platform_mn_program.jpg)
 
 Assuming that all SLASH coins are involved in masternodes by then, this allows to get about 8% of the MN rewards allocated to the platform. It represents an average of 800 coins per day of reward split between active users.
 
